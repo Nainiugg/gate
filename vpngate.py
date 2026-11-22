@@ -64,16 +64,16 @@ DEFAULT_EDGE_HOSTS = [
     "www.mfyx.cn:443",
     "cf.nyanya.moe:443",
     "cf.877774.xyz:443",
-    "cdn.204910.best:443",
+    "xenon11.cf.090227.xyz",
     "cdn.ctn32.us.kg:443",
     "p.etime.vip:443",
     "cmcc.vvvv.ee:443",
     "cfsaas.080112.xyz:443",
     "cdn.aneko.ink:443",
     "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
+    "quartz56.cf.090227.xyz",
     "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "nimbus22.cf.090227.xyz",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
